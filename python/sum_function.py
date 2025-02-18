@@ -1,6 +1,4 @@
-def sum_numbers(a, b):
-
-
+def sum_numbers(num1, num2):
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 print("Sum:", sum_numbers(num1, num2))
